@@ -1,4 +1,6 @@
-## Project Overview
+# Project Overview
+
+![46914416941964196](https://github.com/Amir-Hassanein/PowerBI/assets/33359756/3c32e3ad-af1b-4de4-9609-81786189ef3b)
 
 Quellaveco is a copper mine located in the Moquegua region of Peru. Anglo American has invested approximately $5.5 billion to make Quellaveco their first 100% digital mine, and began construction in 2018. Quellaveco is estimated to contain 8.9 million tons of copper.
 
