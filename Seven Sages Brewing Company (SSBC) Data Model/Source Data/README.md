@@ -1,4 +1,4 @@
-### The Source Data has the following formats:
+## The Source Data has the following formats:
 * PDF
 * XLSX
 * CSV
