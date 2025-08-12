@@ -33,16 +33,35 @@ The NAA wants a report using Power BI with all the relevant visualization and a 
 
 * A1. What were the average take-off delay and average passenger satisfaction score for all flights in the State of New York in 2021?
 
+<img width="2063" height="1152" alt="Screenshot 2025-08-12 203029" src="https://github.com/user-attachments/assets/e784cabc-636d-4657-b518-f807ed2b257f" />
+
+
 * A2. Explain what variable influences the passenger satisfaction score the most.
+
+<img width="2055" height="1149" alt="Screenshot 2025-08-12 203038" src="https://github.com/user-attachments/assets/5a82a234-6459-4d7d-acaf-6ab0822e0102" />
+
 
 * A3. Choose a season and explain what should be the average value of the variable from A2 to achieve a minimum passenger satisfaction score of 6.1.
 
-* A4. The NAA plans to open four offices in the State of New York to perform weekly on-site operational supervision in the airports.
+<img width="2057" height="1155" alt="Screenshot 2025-08-12 203046" src="https://github.com/user-attachments/assets/40bf9527-acab-4f03-a74f-cc3a98c72596" />
 
+
+* A4. The NAA plans to open four offices in the State of New York to perform weekly on-site operational supervision in the airports.
 * The NAA wants each office to be in charge of at most five airports. There are two options, open the offices using a location-based strategy (location closer to the airports) or a volume-based strategy (location based on the yearly passengers of the airports). Which approach would be better if each office could supervise at most five airports?
 
-* A5. Explain the pattern of delayed flights during the last year and the forecasted delays for the next month.
+<img width="2055" height="1152" alt="Screenshot 2025-08-12 203054" src="https://github.com/user-attachments/assets/1b1f7385-9d77-4ce0-80cf-a86dbadd54bd" />
 
+* A5. Explain the pattern of delayed flights during the last year and the forecasted delays for the next month.
 * A6. Also, the NAA needs to understand the dates with very high or very low delays to investigate further what happened.
 
+<img width="2054" height="1154" alt="Screenshot 2025-08-12 203102" src="https://github.com/user-attachments/assets/6bf9fd4e-8222-4768-b574-c5749ff1aa74" />
+  
 * A7. With the prediction model that the NAA is using, what is influencing the predicted probability of delay? Which three flights would you recommend for a passenger booking a flight?
+
+<img width="2058" height="1152" alt="Screenshot 2025-08-12 203111" src="https://github.com/user-attachments/assets/9fc18e61-fdd6-43f5-8d4e-f5a04ff26b44" />
+
+  ***
+
+  ## Conclusions
+  
+<img width="2058" height="1150" alt="Screenshot 2025-08-12 203118" src="https://github.com/user-attachments/assets/98a9e66e-a898-48e4-a043-6e0707374e05" />
