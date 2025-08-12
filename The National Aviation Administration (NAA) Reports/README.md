@@ -1,5 +1,5 @@
 
-<img width="700" height="700" alt="Seal_of_the_United_States_Federal_Aviation_Administration svg" src="https://github.com/user-attachments/assets/7c449649-23d8-42e9-aec6-8a22e77bee66" />
+<img width="500" height="500" alt="Seal_of_the_United_States_Federal_Aviation_Administration svg" src="https://github.com/user-attachments/assets/7c449649-23d8-42e9-aec6-8a22e77bee66" />
 
 ## The Problem: Commercial Flight Delays
 
